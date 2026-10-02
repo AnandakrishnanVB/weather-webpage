@@ -16,7 +16,6 @@ A simple and responsive weather application built using **React**. Enter any cit
 - Displays temperature, weather condition, humidity, and wind speed
 - Refreshes data in real-time
 - Fully responsive design
-
 ---
 
 ##  Screenshots
@@ -63,4 +62,4 @@ weather-webpage/
 
 ### 👨‍💻 Author
 
-Made with ❤️ by Kichu
+Made with ❤️ by Kichu.
